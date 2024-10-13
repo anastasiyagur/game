@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: a135d14fac1f1bd408424d80c9ec0773
+  - enabled: 1
+    path: Assets/Scenes/IslandWar.unity
+    guid: 26f353799a194f344be23dd6d500ede4
+  - enabled: 1
+    path: Assets/Scenes/ObsticalWar.unity
+    guid: 970ca0b49e1b94a45b0cd9770c058e29
   m_configObjects: {}
